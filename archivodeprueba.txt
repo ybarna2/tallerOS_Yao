@@ -1,3 +1,7 @@
 HOLA!!
 
+<<<<<<< HEAD
 ueeeeeesooooo
+=======
+el curso esta re bueno
+>>>>>>> 1ad8a92e42ec37c68edf6be6b4e79d2ec6d06b11
